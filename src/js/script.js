@@ -1,7 +1,4 @@
 
-// Pegar todos os inputs
-// faço um loop neles para checar cada um deles.
-//
 
 
 
